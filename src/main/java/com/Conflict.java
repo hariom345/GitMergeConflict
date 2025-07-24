@@ -2,8 +2,8 @@ package com;
 
 public class Conflict {
 	
-	public void check() {
-		System.out.println("Hello");
+	public void check2() {
+		System.out.println("Hello2");
 	}
 
 }
