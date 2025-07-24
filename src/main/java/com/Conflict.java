@@ -9,7 +9,7 @@ public class Conflict {
 	
 	
 	public void status() {
-		System.out.println("Hello2");
+		System.out.println("Hello from master");
 	}
 
 }
