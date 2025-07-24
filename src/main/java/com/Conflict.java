@@ -20,7 +20,8 @@ public class Conflict {
 	}
 	
 	
-	public void lastTry() {
+	
+	public void hoJayega_Bhai() {
 		System.out.println("try..");
 	}
 
