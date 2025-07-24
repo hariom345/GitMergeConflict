@@ -8,7 +8,7 @@ public class Conflict {
 	
 	
 	
-	public void status() {
+	public void status2() {
 		System.out.println("Hello2");
 	}
 	
