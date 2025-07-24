@@ -6,7 +6,7 @@ public class Conflict {
 		System.out.println("Hello2");
 	}
 	
-	
+
 
 	public void status2() {
 		System.out.println("Hello2");
