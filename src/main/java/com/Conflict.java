@@ -2,7 +2,7 @@ package com;
 
 public class Conflict {
 	
-	public void check2() {
+	public void check3() {
 		System.out.println("Hello2");
 	}
 
