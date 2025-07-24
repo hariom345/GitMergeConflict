@@ -18,5 +18,10 @@ public class Conflict {
 		System.out.println("Hello2");
 
 	}
+	
+	
+	public void lastTry() {
+		System.out.println("try..");
+	}
 
 }
