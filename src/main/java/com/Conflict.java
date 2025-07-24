@@ -15,12 +15,13 @@ public class Conflict {
 	
 	
 	public void aarvika() {
-		System.out.println("Hello2");
+		System.out.println("Hello from test2");
 
 	}
 	
 	
-	public void lastTry() {
+	
+	public void hoJayega_Bhai() {
 		System.out.println("try..");
 	}
 
