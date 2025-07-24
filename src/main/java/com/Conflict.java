@@ -15,7 +15,7 @@ public class Conflict {
 	
 	
 	public void aarvika() {
-		System.out.println("Hello2");
+		System.out.println("Hello from test2");
 
 	}
 
