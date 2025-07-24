@@ -8,10 +8,9 @@ public class Conflict {
 	
 	
 	
-<<<<<<< HEAD
-	public void status() {
-		System.out.println("Hello from master");
-=======
+
+
+
 	public void status2() {
 		System.out.println("Hello2");
 
@@ -27,7 +26,6 @@ public class Conflict {
 	
 	public void hoJayega_Bhai() {
 		System.out.println("try..");
->>>>>>> 065fc83200c4256d4eb5fd642e3f3fb5f3b4d44a
 	}
 
 }
