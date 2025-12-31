@@ -16,7 +16,7 @@ public class Conflict {
 		System.out.println("Hello2");
 	}
 	
-	public void stash() {
+
 	public void doingWork() {
 		System.out.println("Hello2");
 	}
