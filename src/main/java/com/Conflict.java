@@ -3,6 +3,11 @@ package com;
 public class Conflict {
 	
 	public void check3() {
+		//comment
+		System.out.println("Hello2");
+	}
+	
+	public void check5() {
 		System.out.println("Hello2");
 	}
 	
