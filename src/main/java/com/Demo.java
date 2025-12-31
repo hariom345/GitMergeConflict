@@ -3,7 +3,7 @@ package com;
 public class Demo {
 	
 	public void display() {
-		System.err.print("Test1");//called
+		System.out.println("Test1");
 	}
 
 }
