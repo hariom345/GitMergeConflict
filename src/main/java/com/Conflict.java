@@ -10,6 +10,10 @@ public class Conflict {
 		System.out.println("Hello2");
 	}
 	
+	public void check6() {
+		System.out.println("Hello2");
+	}
+	
 	
 
 
