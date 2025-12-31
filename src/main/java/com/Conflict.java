@@ -6,6 +6,9 @@ public class Conflict {
 		System.out.println("Hello2");
 	}
 	
+	public void check4() {
+		System.out.println("Hello2");
+	}
 	
 	
 
