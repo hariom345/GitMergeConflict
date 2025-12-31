@@ -10,6 +10,10 @@ public class Conflict {
 		System.out.println("Hello2");
 	}
 	
+	public void stash() {
+		System.out.println("Hello2");
+	}
+	
 	
 
 
