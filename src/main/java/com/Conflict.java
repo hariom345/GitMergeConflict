@@ -10,6 +10,13 @@ public class Conflict {
 		System.out.println("Hello2");
 	}
 	
+	public void doingWork() {
+		System.out.println("Hello2");
+	}
+	
+	
+	
+	
 	
 
 
