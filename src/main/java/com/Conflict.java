@@ -11,12 +11,6 @@ public class Conflict {
 	}
 	
 	
-	
-	public void check5() {
-		System.out.println("Hello2");
-	}
-	
-	
 
 
 
