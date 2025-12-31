@@ -4,6 +4,12 @@ public class Conflict {
 	
 	public void check3() {
 		System.out.println("Hello2");//Hell called
+		//comment
+		System.out.println("Hello2");
+	}
+	
+	public void check5() {
+		System.out.println("Hello2");
 	}
 	
 	public void check4() {
@@ -11,8 +17,12 @@ public class Conflict {
 	}
 	
 	public void stash() {
+	public void doingWork() {
 		System.out.println("Hello2");
 	}
+	
+	
+	
 	
 	
 
